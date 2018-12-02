@@ -17,8 +17,7 @@ Your program should insert _new backgrounds_ onto existing pictures, and will do
 
 I will explain both concepts below, then give further instructions on how to approach the challenge.
 
-Strategy 1: Chromakey
------------------------------------
+### Strategy 1: Chromakey
 
 This strategy will require only 2 images to work:
 - An image of the new background - like beachBahamas.jpg
